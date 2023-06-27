@@ -4873,3 +4873,1847 @@ lukien.
 
 <img src="media/image33.jpeg" style="width:6.69306in;height:2.24514in"
 alt="Kuva, joka sisältää kohteen teksti, kuvakaappaus, Fontti, numero Kuvaus luotu automaattisesti" />
+
+<img src="media/image1.png" style="width:0.48556in;height:0.43512in" />
+
+> MATKAILU-, RAVINTOLA- JA VAPAA-AJAN PALVELUIDEN
+
+TASKUTES
+
+> 1.4.2023–31.3.2025
+>
+> **Matkailu-, ravintola- ja vapaa-ajan palveluiden työehtosopimuksen
+> keskeiset määräykset**
+>
+> 1.4.2023–31.3.2025
+
+[Mikä on PAM? 7](#mikä-on-pam)
+
+[Jäsenyys 7](#mikä-on-pam)
+
+[Mikä on työehtosopimus? 8](#mikä-on-työehtosopimus)
+
+[Mikä on työsopimus? 9](#_bookmark2)
+
+[Tämä sinun tulee ainakin tietää työehtosopimuksesta
+10](#tämä-sinun-tulee-ainakin-tietää-työehtosopimuksesta)
+
+[Koeaika 10](#tämä-sinun-tulee-ainakin-tietää-työehtosopimuksesta)
+
+[Irtisanomisajat 11](#irtisanomisajat)
+
+[Harjoittelija 12](#harjoittelija)
+
+[Koululaiset 12](#harjoittelija)
+
+[Kokemusvuodet 12](#harjoittelija)
+
+[Työaika 13](#työaika)
+
+[Osa-aikatyöntekijät 14](#osa-aikatyöntekijät)
+
+[Vuosivapaajärjestelmä (VV) 17](#_bookmark8)
+
+[Lisätyö 18](#_bookmark9)
+
+[Ylityö 19](#ylityö)
+
+[Korotettu palkka 19](#ylityö)
+
+[Työntekijän sairastuminen 20](#_bookmark11)
+
+[Vuosiloma ja vuosilomakorvaus 21](#vuosiloma-ja-vuosilomakorvaus)
+
+[Lomaltapaluuraha 22](#_bookmark13)
+
+2 [www.pam.fi](http://www.pam.fi/)
+
+[Alle 10-vuotiaan lapsen äkillinen sairastuminen 22](#_bookmark13)
+
+[Työasut 22](#_bookmark13)
+
+[Ruokatauko ja tauotus 23](#ruokatauko-ja-tauotus)
+
+[Ravintoetu 23](#ruokatauko-ja-tauotus)
+
+[Yötyömatkat 23](#ruokatauko-ja-tauotus)
+
+Työntekijöiden k[uukausi- ja tuntipalkat
+24](#kuukausi--ja-tuntipalkat-1.6.2023-ja-1.9.2024)
+
+[Ilta- ja yötyölisät 25](#_bookmark16)
+
+[Päivittäistavaramyymälälisä 26](#päivittäistavaramyymälälisä)
+
+[Luvanhaltijan edustajan lisän perusteena](#päivittäistavaramyymälälisä)
+
+[oleva hovimestarin taulukkopalkka 1.6.2023
+26](#päivittäistavaramyymälälisä)
+
+[Palkkaryhmät 27](#palkkaryhmät)
+
+Esihenkilöiden k[uukausi- ja tuntipalkat 1.6.2023
+28](#kuukausi--ja-tuntipalkat-1.6.2023)
+
+[Ilta- ja yötyölisä 29](#_bookmark20)
+
+[Päivittäistavaramyymälälisä (TES 16 § 3.kohta)
+30](#päivittäistavaramyymälälisä-tes-16-3.kohta)
+
+[Palkkaryhmät 31](#palkkaryhmät-1)
+
+> [www.pam.fi](http://www.pam.fi/) 3
+>
+> **Matkailu-, ravintola- ja vapaa- ajan palveluiden työehdot**
+>
+> Työntekijöiden työ- ja palkkaehdot muodostuvat työlakien,
+> työehtosopimuksen ja henkilökohtaisen työsopimuksen perusteella.
+> Järjestöjen solmimilla työehtosopimuksilla on monista asioista sovittu
+> pa- remmin kuin laissa.
+>
+> Työehtosopimuksella on esimerkiksi sovittu viisipäi- väinen työviikko,
+> kun työaikalain mukaan työviikossa on vain yksi vapaapäivä.
+> Työsopimuslaki ei liioin määrää vähimmäispalkkaa, ei tunne
+> työaikalisiä, olosuhdelisiä, työasuja eikä lomarahaa.
+>
+> PAM on neuvotellut Matkailu-, ravintola- ja vapaa- ajan palvelujen
+> työntekijöille paremmat työehdot kuin pelkät työlait antaisivat.
+>
+> Seuraavalla sivulla on muutama esimerkki siitä, mitä hyötyä
+> työehtosopimuksesta sinulle on.
+>
+> [www.pam.fi](http://www.pam.fi/) 5
+>
+> Työpäivän pituus Enintään 10 tuntia Enintään 15 tuntia
+>
+> Työvuorolistat Muutetaan vain yhdessä sopimalla
+>
+> Työnantajalla oikeus muuttaa töihin liittyvästä painavasta syystä
+>
+> Sairausajan palkka 1 – 56 päivää 1 – 9 päivää
+>
+> Raskausvapaan palkka
+>
+> Palkka raskaus- Ei vapaan alusta yhdenjaksoisen
+>
+> 40 raskauspäivän ajalta
+>
+> Lomaltapaluuraha 50 % lomapalkasta Ei
+>
+> 6 [www.pam.fi](http://www.pam.fi/)
+
+# Mikä on PAM?
+
+> Palvelualojen ammattiliitto PAM neuvottelee yksi- tyisten
+> palvelualojen työehtosopimukset ja valvoo jäsentensä etuja.
+
+# Jäsenyys
+
+> Kun olet työssä PAMin edustamalla alalla, liity jäse- neksi. Jäsenyys
+> tuo mukanaan muiden etujen lisäksi ansiosidonnaisen työttömyysturvan.
+> Jäsenmaksu on 1,5 % bruttopalkasta. Jäsenmaksun voi vähentää
+> verotuksessa.
+>
+> PAMin aloille opiskeleva voi liittyä opiskelijajäseneksi.
+> Opiskelijajäsen maksaa jäsenmaksua vain mahdolli- sista
+> palkkatuloista.
+>
+> Jäseneksi liittyminen on helppoa: mene osoitteeseen
+>
+> **[www.pam.fi/liity](http://www.pam.fi/liity)** ja täytä lomake.
+>
+> [www.pam.fi](http://www.pam.fi/) 7
+
+# Mikä on työehtosopimus?
+
+> Palvelualojen ammattiliitto PAM ry on solminut Mat- kailu-, ravintola-
+> ja vapaa-ajan palveluita koskevan sopimuksen Matkailu- ja
+> Ravintolapalvelut MaRa ry:n kanssa. Työehtosopimuksessa on sovittu
+> työssä noudatettavissa vähimmäisehdoista, mm. palkois- ta, työajoista,
+> sairausaikaan liittyvistä asioista ja vuosiloman antamisesta. PAMin
+> neuvotteleman työehtosopimuksen palkat ovat vähimmäispalkko- ja, joita
+> ei saa alittaa. On hyvä pitää mielessä, että henkilökohtaista
+> työsopimusta ei voi sopia heikommin ehdoin kuin työehtosopimusta.
+> Sopimus on yleissito- va, joten kaikkien alan työnantajien on
+> noudatettava vähintään sen ehtoja työntekijöihinsä.
+>
+> Taskutessiin on koottu Matkailu-, ravintola- ja vapaa- ajan palveluita
+> koskevan työehtosopimuksen keskei- simpiä määräyksiä.
+> Yksityiskohtaiset määräykset ovat varsinaisessa työehtosopimuksessa.
+>
+> Jos olet jäsen, voit tilata työehtosopimuksen mak- sutta osoitteesta
+> **pam.fi/tilaukset**. Työehtosopimus löytyy myös sähköisenä
+> osoitteessa **[www.pam.fi.](http://www.pam.fi/)** Jos tarvitset
+> enemmän ja tarkempaa tietoa työeh- doista, ota yhteys työpaikkasi
+> luottamusmieheen.
+>
+> 8 [www.pam.fi](http://www.pam.fi/)
+>
+> <span id="_bookmark2" class="anchor"></span>Voit myös soittaa PAMin
+> työsuhdeneuvontanume- roon 030 100 620.
+
+# Mikä on työsopimus?
+
+> Työsopimus sovitaan työnantajan ja työntekijän välillä.
+> Työsopimuksessa tulee noudattaa vähintään työehtosopimuksen
+> määräyksiä. Työntekijän kannal- ta paremmista työ- ja palkkaehdoista
+> on mahdollista sopia. Työsopimus tulee tehdä kirjallisesti.
+
+## Työsopimusta tehtäessä sovitaan selkeästi:
+
+- mitkä ovat työtehtäväsi
+
+- mikä on palkkasi
+
+- mikä on työaikasi tai vähimmäistyöaikasi
+
+- milloin työsuhteesi alkaa (ja milloin määräaikainen työsuhde päättyy).
+
+- mikä on koeaikasi
+
+- mikä on työpaikkasi (työssäkäyntialue)
+
+- työpaikkaruokailu.
+
+> Työsopimuslomakkeita saat liiton toimistoista ja PAMin verkkosivuilta
+> [**www.pam.fi**](https://www.pam.fi/materiaalipankki.html). Tarkemmat
+> mää- räykset alan työehdoista löytyvät työehtosopimuk- sesta.
+>
+> [www.pam.fi](http://www.pam.fi/) 9
+
+# Tämä sinun tulee ainakin tietää työehtosopimuksesta
+
+## Koeaika
+
+- Toistaiseksi voimassa olevassa työsuhteessa ole- vat: enintään 6 kk.
+
+- Jos koeaikana on oltu työkyvyttömyyden tai per- hevapaan vuoksi poissa
+  > työstä, työnantajalla
+
+> on oikeus pidentää koeaikaa. Katso tarkemmin työehtosopimuksista.
+
+- Määräaikaisissa työsuhteissa olevat: määräaikai- sessa työsuhteessa
+  > koeaika saa pidennyksineen
+
+> olla korkeintaan puolet työsopimuksen kestosta, ei kuitenkaan enempää
+> kuin kuusi kuukautta.
+>
+> 10 [www.pam.fi](http://www.pam.fi/)
+
+## Irtisanomisajat
+
+### Työnantajan irtisanoessa työsopimuksen:
+
+> alle 5 vuotta 1 kk
+>
+> alle 10 vuotta 2 kk
+>
+> alle 15 vuotta 3 kk
+>
+> yli 15 vuotta 4 kk
+
+### Työntekijän irtisanoessa työsopimuksen:
+
+> alle 10 vuotta 14 vrk
+>
+> yli 10 vuotta 1 kk
+>
+> Esihenkilön irtisanoutumisaika on 1 kuukausi.
+>
+> Määräajaksi sovitut työsopimukset ovat voimassa määräajan, esim.
+> 1.6.–31.7. Työsopimuksen mää- räaikaisuudelle täytyy olla aina
+> työehtosopimuksen mukainen perusteltu syy, esim. sijaisuus.
+>
+> [www.pam.fi](http://www.pam.fi/) 11
+
+## Harjoittelija
+
+> Tullessaan alalle ensi kertaa työntekijällä on harjoit- teluaika, joka
+> on kuusi kuukautta. Mikäli työntekijällä on tehtävän edellyttämä
+> koulutus, harjoitteluaika on kaksi kuukautta. Harjoittelijan palkka on
+> 80 % kyseisen työtehtävän mukaisesta, 0–2 vuoden palk- kataulukosta.
+>
+> Esihenkilöillä ei voi olla harjoitteluaikaa, vaan esi-
+> henkilöharjoittelijalle maksetaan vähintään tehtä- vää vastaavan
+> työntekijäpalkkaryhmän mukaista palkkaa.
+
+## Koululaiset
+
+> Peruskoulun ja lukion oppilaalle voidaan maksaa koululaisen palkkaa
+> enintään kahdelta kuukaudelta. Koululaisen palkka on 70 % asianomaisen
+> palkka- ryhmän palkasta.
+
+## Kokemusvuodet
+
+> Työsuhteissa huomioidaan työntekijän aikaisempi työkokemus vastaavista
+> tehtävistä.
+>
+> 12 [www.pam.fi](http://www.pam.fi/)
+
+## Työaika
+
+> Säännöllinen työaika on 112,5 tuntia kolmessa vii- kossa.
+>
+> Käytössä on kolme työajan tasoittumisjärjestelmää, jotka on
+> tarkoitettu kokoaikatyöntekijöille:
+
+- työaika tasoittuu enintään kuuden (6) kolmiviik- koisjakson aikana
+  > 112,5 tunniksi, ja yksittäisen
+
+> kolmiviikkoisjakson säännöllinen työaika saa olla enintään 130 tuntia
+
+- työaika tasoittuu enintään yhdeksän (9) kolmi- viikkoisjakson aikana
+  > 112,5 tunniksi, ja yksittäi-
+
+> sen kolmiviikkoisjakson työaika saa olla enintään 136 tuntia.
+> Järjestelmän käyttöönotosta pitää sopia työehtosopimuksen 30 §:n
+> mukaisesti.
+
+- paikalliseen sopimiseen perustuva vuosityöaika- järjestelmä (ns.
+  > työaikapankki). (Katso tarkemmin
+
+> työehtosopimuksista.)
+>
+> [www.pam.fi](http://www.pam.fi/) 13
+
+## Osa-aikatyöntekijät
+
+> Työnantaja ja osa-aikatyöntekijä sopivat joko kiin- teästä
+> kolmiviikkoisjakson vähimmäistyöajasta tai keskimääräisestä
+> kolmiviikkoisjakson vähimmäis- työajasta.
+>
+> Kiinteän vähimmäistyöajan tulee toteutua jokaisella
+> kolmiviikkoisjaksolla.
+>
+> Jos työnantaja ja työntekijä ovat sopineet keski- määräisestä kolmen
+> viikon jakson työajasta, tulee sovitun työajan toteutua vuoden
+> pituisena jaksona, ellei lyhyemmästä tarkastelujaksosta työpaikkakoh-
+> taisesti toisin sovita.
+>
+> Tarkastelu toteutetaan kokonaisilta kolmiviikkoisjak- soilta
+> tammikuusta tammikuuhun.
+>
+> 14 [www.pam.fi](http://www.pam.fi/)
+
+### Vuoden 2023–2024 tarkastelujaksot
+
+<table>
+<colgroup>
+<col style="width: 23%" />
+<col style="width: 23%" />
+<col style="width: 27%" />
+<col style="width: 24%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p>KOLMI- VIIKKOIS- JAKSO ALKAA</p>
+</blockquote></th>
+<th><blockquote>
+<p>KOLMI- VIIKKOIS- JAKSO PÄÄTTYY</p>
+</blockquote></th>
+<th><blockquote>
+<p>KOLMI- VIIKKOIS- JAKSOJEN LUKUMÄÄRÄ</p>
+</blockquote></th>
+<th><blockquote>
+<p>SEURAAVA TARKASTE- LUJAKSO ALKAA</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>2.1.2023</p>
+</blockquote></td>
+<td><blockquote>
+<p>14.1.2024</p>
+</blockquote></td>
+<td>18</td>
+<td><blockquote>
+<p>15.1.2024</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>9.1.2023</p>
+</blockquote></td>
+<td><blockquote>
+<p>31.12.2023</p>
+</blockquote></td>
+<td>17</td>
+<td><blockquote>
+<p>1.1.2024</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>16.1.2023</p>
+</blockquote></td>
+<td><blockquote>
+<p>7.1.2024</p>
+</blockquote></td>
+<td>17</td>
+<td><blockquote>
+<p>8.1.2024</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>23.1.2023</p>
+</blockquote></td>
+<td><blockquote>
+<p>14.1.2024</p>
+</blockquote></td>
+<td>16</td>
+<td><blockquote>
+<p>15.1.2024</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>30.1.2023</p>
+</blockquote></td>
+<td><blockquote>
+<p>31.12.2023</p>
+</blockquote></td>
+<td>16</td>
+<td><blockquote>
+<p>1.1.2024</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
+
+> Vuoden 2024–2025 tarkastelujaksot
+
+<table>
+<colgroup>
+<col style="width: 23%" />
+<col style="width: 23%" />
+<col style="width: 27%" />
+<col style="width: 24%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p>KOLMI- VIIKKOIS- JAKSO ALKAA</p>
+</blockquote></th>
+<th><blockquote>
+<p>KOLMI- VIIKKOIS- JAKSO PÄÄTTYY</p>
+</blockquote></th>
+<th><blockquote>
+<p>KOLMI- VIIKKOIS- JAKSOJEN LUKUMÄÄRÄ</p>
+</blockquote></th>
+<th><blockquote>
+<p>SEURAAVA TARKASTE- LUJAKSO ALKAA</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>1.1.2024</p>
+</blockquote></td>
+<td><blockquote>
+<p>12.1.2025</p>
+</blockquote></td>
+<td>18</td>
+<td><blockquote>
+<p>13.1.2025</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>8.1.2024</p>
+</blockquote></td>
+<td><blockquote>
+<p>19.1.2025</p>
+</blockquote></td>
+<td>18</td>
+<td><blockquote>
+<p>20.1.2025</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>15.1.2024</p>
+</blockquote></td>
+<td><blockquote>
+<p>5.1.2025</p>
+</blockquote></td>
+<td>17</td>
+<td><blockquote>
+<p>6.1.2025</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>22.1.2024</p>
+</blockquote></td>
+<td><blockquote>
+<p>12.1.2025</p>
+</blockquote></td>
+<td>17</td>
+<td><blockquote>
+<p>13.1.2025</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>29.1.2024</p>
+</blockquote></td>
+<td><blockquote>
+<p>19.1.2025</p>
+</blockquote></td>
+<td>17</td>
+<td><blockquote>
+<p>20.1.2025</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
+
+> [www.pam.fi](http://www.pam.fi/)
+
+### Vuoden 2025–2026 tarkastelujaksot
+
+<table>
+<colgroup>
+<col style="width: 23%" />
+<col style="width: 23%" />
+<col style="width: 27%" />
+<col style="width: 24%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p>KOLMI- VIIKKOIS- JAKSO ALKAA</p>
+</blockquote></th>
+<th><blockquote>
+<p>KOLMI- VIIKKOIS- JAKSO PÄÄTTYY</p>
+</blockquote></th>
+<th><blockquote>
+<p>KOLMI- VIIKKOIS- JAKSOJEN LUKUMÄÄRÄ</p>
+</blockquote></th>
+<th><blockquote>
+<p>SEURAAVA TARKASTE- LUJAKSO ALKAA</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>6.1.2025</p>
+</blockquote></td>
+<td><blockquote>
+<p>18.1.2026</p>
+</blockquote></td>
+<td><blockquote>
+<p>18</p>
+</blockquote></td>
+<td><blockquote>
+<p>19.1.2026</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>13.1.2025</p>
+</blockquote></td>
+<td><blockquote>
+<p>4.1.2026</p>
+</blockquote></td>
+<td><blockquote>
+<p>17</p>
+</blockquote></td>
+<td><blockquote>
+<p>5.1.2026</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>20.1.2025</p>
+</blockquote></td>
+<td><blockquote>
+<p>11.1.2026</p>
+</blockquote></td>
+<td><blockquote>
+<p>17</p>
+</blockquote></td>
+<td><blockquote>
+<p>12.1.2026</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>27.1.2025</p>
+</blockquote></td>
+<td><blockquote>
+<p>18.1.2026</p>
+</blockquote></td>
+<td><blockquote>
+<p>17</p>
+</blockquote></td>
+<td><blockquote>
+<p>19.1.2026</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
+
+> Työtuntien tarkastelu tehdään kahden kuukauden kuluessa
+> tarkastelujakson päättymisestä.
+>
+> Työajan ollessa ilman perusteltua syytä työsopimuk- sessa sovittu
+> työaikaa pidempi, tulee työaika sopia toteutunutta työaikaa
+> vastaavaksi.
+>
+> Alle vuoden määräaikaisissa työsuhteissa sovitun keskimääräisen
+> vähimmäistyöajan tulee toteutua työsuhteen aikana.
+>
+> 16 [www.pam.fi](http://www.pam.fi/)
+>
+> <span id="_bookmark8" class="anchor"></span>Jos toteutunut työaika ei
+> ole vähintään sovitun mukainen, on työnantaja velvollinen maksamaan
+> saamatta jääneitä työtunteja vastaavan korvauk- sen.
+> Korvausvelvollisuutta ei kuitenkaan ole, jos sovit- tu tuntimäärä on
+> jäänyt toteutumatta työntekijästä johtuvasta syystä tai palkattoman
+> poissaolon vuoksi.
+
+## Vuosivapaajärjestelmä (VV)
+
+- Vuosivapaajärjestelmän piiriin kuuluvat sekä ko- koaikaiset että
+  > osa-aikaiset työntekijät.
+
+- Työntekijä ansaitsee yhden vuosivapaan kutakin toteutunutta 200
+  > työtuntia kohti. 1400 toteutu-
+
+> neen työtunnin jälkeen ansaintaraja on 140 tuntia ja 1540 toteutuneen
+> työtunnin jälkeen 100 tuntia (kts. taulukko seuraavalla sivulla).
+
+- Vapaita voidaan ansaita enintään yhdeksän (9) kappaletta
+  > kalenterivuodessa.
+
+> [www.pam.fi](http://www.pam.fi/) 17
+>
+> <span id="_bookmark9" class="anchor"></span>Kalenterivuodessa vapaita
+> ansaitaan seuraavasti:
+
+<table>
+<colgroup>
+<col style="width: 48%" />
+<col style="width: 51%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p>TOTEUTUNEIDEN TYÖTUNTIEN MÄÄRÄ</p>
+</blockquote></th>
+<th><blockquote>
+<p>VUOSIVAPAIDEN MÄÄRÄ</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>200</p>
+</blockquote></td>
+<td><blockquote>
+<p>1</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>400</p>
+</blockquote></td>
+<td><blockquote>
+<p>2</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>600</p>
+</blockquote></td>
+<td><blockquote>
+<p>3</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>800</p>
+</blockquote></td>
+<td><blockquote>
+<p>4</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>1000</p>
+</blockquote></td>
+<td><blockquote>
+<p>5</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>1200</p>
+</blockquote></td>
+<td><blockquote>
+<p>6</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>1400</p>
+</blockquote></td>
+<td><blockquote>
+<p>7</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>1540</p>
+</blockquote></td>
+<td><blockquote>
+<p>8</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>1640</p>
+</blockquote></td>
+<td><blockquote>
+<p>9</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
+
+## Lisätyö
+
+> Työnantajalla on velvollisuus tarjota lisätyötä osa- aikaiselle
+> työntekijälle 112,5 tuntiin asti / kolmiviik- koisjakso, ennen kuin
+> työtä tekemään otetaan uusi työntekijä. Työpaikalla on suositeltavaa
+> sopia lisätyön tarjoamisen pelisäännöistä.
+>
+> 18 [www.pam.fi](http://www.pam.fi/)
+
+## Ylityö
+
+> Ylityötä on se työ, jota tehdään kolmen viikon jaksossa 120 työtunnin
+> jälkeen.
+
+## Korotettu palkka
+
+### 50 % korotettu palkka:
+
+- ylityökorvaus 120 t / 3 vkoa ylittävältä osalta 18 ensimmäiseltä
+  > tunnilta
+
+- lisävapaapäivänä (X) tehty työ
+
+- vuosivapaapäivänä (VV) tehty työ
+
+- aattokorvaukset: klo 15.00 jälkeen uudenvuoden- aattona,
+  > pääsiäislauantaina, vappu-, juhannus-
+
+> ja jouluaattona tehty työ
+
+### 100 % korotettu palkka:
+
+- ylityökorvaus (120 t + 18 t =) 138 t / 3 vkoa jälkeen tehty työ
+
+- viikkolepopäivänä (V) tehty työ
+
+- sunnuntaina tai muuna kirkollisena pyhänä sekä itsenäisyys- ja
+  > vapunpäivänä tehty työ
+
+> Huom! Työajan tasoittumisjärjestelmien osalta sovel- letaan erilaisia
+> ylityömääräyksiä. Ks. TES.
+>
+> [www.pam.fi](http://www.pam.fi/) 19
+>
+> Jos työntekijä on työtehtävissä tapahtuneen työta- paturman vuoksi
+> kykenemätön suorittamaan työ- tään, maksetaan hänelle edellä olevasta
+> taulukosta poiketen työkyvyttömyyden aiheuttaman poissaolon ajalta
+> sairausajan palkkaa jäljempänä mainittujen määräysten mukaisesti
+> vähintään neljän viikon pi- tuiselta ajanjaksolta (28 kalenteripäivää)
+> työsuhteen kestoajasta riippumatta. Tältä ajalta työntekijälle lain
+> mukaan kuuluva päiväraha maksetaan työn- antajalle enintään
+> työnantajan maksamaa palkan määrää vastaavasti.
+>
+> 20 [www.pam.fi](http://www.pam.fi/)
+
+## Vuosiloma ja vuosilomakorvaus
+
+> Työntekijä ansaitsee lomaa täydeltä lomanmää- räytymiskuukaudelta
+> työsuhteen kestettyä loman- määräytymisvuoden (1.4.–31.3.) loppuun
+> mennessä
+
+- alle vuoden 2 arkipäivää
+
+- vähintään vuoden 2,5 arkipäivää
+
+> Täysi lomanmääräytymiskuukausi on kalenterikuu- kausi, jonka aikana
+
+1.  työntekijä on ollut työssä vähintään 14 päivänä
+
+2.  työntekijä on ollut työssä vähintään 35 tuntia.
+
+> Lomaa kerryttävät myös vuosilomalain tarkoittamat työssäolon veroiset
+> päivät / työssäolon veroinen aika (esim. sairausloma tietyltä osin).
+> Työntekijä ansaitsee lomaa joko a- tai b-vaihtoehdon mukaan.
+> Työntekijä ansaitsee lomaa a-vaihtoehdon mukaan, mikäli työskentelee
+> työsopimuksensa mukaan kaikkina ka- lenterikuukausina vähintään 14
+> päivää kuukaudessa.
+>
+> Työnantaja on velvollinen maksamaan ansaituilta vuo- silomapäiviltä
+> vuosilomapalkan. Jostyöntekijä työsken- telee niin harvoina päivinä
+> tai niin lyhyen ajan, etteivät edellä kerrotut loman ansaintaehdot
+> täyty, on hänellä oikeus saada lomapalkkaa vastaava lomakorvaus.
+>
+> [www.pam.fi](http://www.pam.fi/) 21
+>
+> <span id="_bookmark13" class="anchor"></span>Työsuhteen päättyessä
+> työntekijällä on oikeus saada vuosilomapalkan sijasta vuosilomakorvaus
+> pitämättä jääneen vuosiloman osalta. Lomapalkan ja lomakor- vauksen
+> laskenta ks. TES.
+
+## Lomaltapaluuraha
+
+> Lomaltapaluuraha on 50 % loma-ajan palkasta, ja se maksetaan loman
+> päättymistä seuraavan pal- kanmaksun yhteydessä.
+
+## Alle 10-vuotiaan lapsen äkillinen sairastuminen
+
+> Palkka maksetaan enintään 3 päivältä.
+
+## Työasut
+
+> Työpuvun pitää olla siisti ja asianmukainen.
+>
+> Työnantaja luovuttaa työntekijän työkäyttöön:
+
+- lainsäädännön tai viranomaisohjeistuksen edel- lyttämät työasut
+
+- työpuvut, mikäli työnantaja esittää erityisiä vaa- timuksia
+  > esimerkiksi työpuvun väriin, malliin tai
+
+> yhtenäisyyteen.
+>
+> 22 [www.pam.fi](http://www.pam.fi/)
+
+## Ruokatauko ja tauotus
+
+> Työnantajalla on velvollisuus järjestää työntekijälleen tilaisuus
+> aterioida työaikana, jos työpäivän pituus ylittää 6 tuntia.
+>
+> Yhtäjaksoisesti kuormittavassa työssä tai työssä, joka vaatii jatkuvaa
+> paikallaan oloa, työnantajan on järjes- tettävä tilapäinen poistuminen
+> tällaisesta työpisteestä. Tämä koskee myös alle 6 tunnin työvuoroja.
+>
+> Yli 4 tunnin työvuorossa on lisäksi annettava vähintään yksi
+> kahvitauko. Jos tämä ei ole töiden järjestelyistä johtuen mahdollista,
+> työntekijällä pitää olla mahdol- lisuus nauttia virvokkeita työn
+> lomassa.
+
+## Ravintoetu
+
+> Ravintoedun raha-arvo 1.1.–31.12.2022 on 6,80 euroa. (Sairaalan,
+> koulun, päiväkodin tai muun vastaavan laitoksen henkilökuntaan
+> kuuluvan laitosruokailun yhteydessä saaman ravintoedun raha-arvona
+> pidetään 6,00 € ateriaa kohden.)
+
+## Yötyömatkat
+
+> Mikäli työntekijän työaika alkaa tai päättyy klo 23:n ja klo 06:n
+> välisenä aikana, eikä hän voi kulkea työ- matkoja julkisilla
+> kulkuvälineillä, omalla tai puolisonsa autolla, polkupyörällä tai
+> muulla tavalla, on työnanta- jalla velvollisuus järjestää
+> työntekijälle kuljetus.
+>
+> [www.pam.fi](http://www.pam.fi/) 23
+
+## Kuukausi- ja tuntipalkat 1.6.2023 ja 1.9.2024
+
+### Työntekijät
+
+> Työntekijöiden taulukkopalkat sen palkanmaksukau- den alusta, joka
+> alkaa 1.6.2023 tai lähinnä sen jälkeen alkavan palkanmaksukauden
+> alusta lukien.
+
+<table>
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 20%" />
+<col style="width: 23%" />
+<col style="width: 22%" />
+<col style="width: 23%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th><blockquote>
+<p>0–2 V.</p>
+</blockquote></th>
+<th><blockquote>
+<p>YLI 2 V.</p>
+</blockquote></th>
+<th><blockquote>
+<p>YLI 5 V.</p>
+</blockquote></th>
+<th><blockquote>
+<p>YLI 10 V.</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td><blockquote>
+<p>1774</p>
+</blockquote></td>
+<td><blockquote>
+<p>1821</p>
+</blockquote></td>
+<td><blockquote>
+<p>1866</p>
+</blockquote></td>
+<td><blockquote>
+<p>1913</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>(11,16)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(11,45)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(11,74)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(12,03)</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td>2</td>
+<td><blockquote>
+<p>1810</p>
+</blockquote></td>
+<td><blockquote>
+<p>1854</p>
+</blockquote></td>
+<td><blockquote>
+<p>1922</p>
+</blockquote></td>
+<td><blockquote>
+<p>2014</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>(11,38)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(11,66)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(12,09)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(12,67)</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td><blockquote>
+<p>1923</p>
+</blockquote></td>
+<td><blockquote>
+<p>1980</p>
+</blockquote></td>
+<td><blockquote>
+<p>2035</p>
+</blockquote></td>
+<td><blockquote>
+<p>2125</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>(12,09)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(12,45)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(12,80)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(13,36)</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>4</p>
+</blockquote></td>
+<td><blockquote>
+<p>2031</p>
+</blockquote></td>
+<td><blockquote>
+<p>2088</p>
+</blockquote></td>
+<td><blockquote>
+<p>2150</p>
+</blockquote></td>
+<td><blockquote>
+<p>2230</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>(12,77)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(13,13)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(13,52)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(14,03)</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td><blockquote>
+<p>2121</p>
+</blockquote></td>
+<td><blockquote>
+<p>2168</p>
+</blockquote></td>
+<td><blockquote>
+<p>2222</p>
+</blockquote></td>
+<td><blockquote>
+<p>2287</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>(13,34)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(13,64)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(13,97)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(14,38)</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
+
+> 24 [www.pam.fi](http://www.pam.fi/)
+>
+> <span id="_bookmark16" class="anchor"></span>Työntekijöiden
+> taulukkopalkat sen palkanmaksu- kauden alusta, jonka alkaa 1.9.2024
+> tai lähinnä sen jälkeen alkavan palkanmaksukauden alusta lukien.
+
+<table>
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 20%" />
+<col style="width: 23%" />
+<col style="width: 22%" />
+<col style="width: 23%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th><blockquote>
+<p>0–2 V.</p>
+</blockquote></th>
+<th><blockquote>
+<p>YLI 2 V.</p>
+</blockquote></th>
+<th><blockquote>
+<p>YLI 5 V.</p>
+</blockquote></th>
+<th><blockquote>
+<p>YLI 10 V.</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>1</p>
+</blockquote></td>
+<td><blockquote>
+<p>1804</p>
+</blockquote></td>
+<td><blockquote>
+<p>1852</p>
+</blockquote></td>
+<td><blockquote>
+<p>1898</p>
+</blockquote></td>
+<td><blockquote>
+<p>1946</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>(11,35)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(11,65)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(11,94)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(12,24)</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>2</p>
+</blockquote></td>
+<td><blockquote>
+<p>1841</p>
+</blockquote></td>
+<td><blockquote>
+<p>1886</p>
+</blockquote></td>
+<td><blockquote>
+<p>1955</p>
+</blockquote></td>
+<td><blockquote>
+<p>2048</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>(11,58)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(11,86)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(12,30)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(12,88)</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>3</p>
+</blockquote></td>
+<td><blockquote>
+<p>1956</p>
+</blockquote></td>
+<td><blockquote>
+<p>2014</p>
+</blockquote></td>
+<td><blockquote>
+<p>2070</p>
+</blockquote></td>
+<td><blockquote>
+<p>2161</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>(12,30)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(12,67)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(13,02)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(13,59)</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>4</p>
+</blockquote></td>
+<td><blockquote>
+<p>2066</p>
+</blockquote></td>
+<td><blockquote>
+<p>2123</p>
+</blockquote></td>
+<td><blockquote>
+<p>2187</p>
+</blockquote></td>
+<td><blockquote>
+<p>2268</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>(12,99)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(13,35)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(13,75)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(14,26)</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>5</p>
+</blockquote></td>
+<td><blockquote>
+<p>2157</p>
+</blockquote></td>
+<td><blockquote>
+<p>2205</p>
+</blockquote></td>
+<td><blockquote>
+<p>2260</p>
+</blockquote></td>
+<td><blockquote>
+<p>2326</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>(13,57)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(13,87)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(14,21)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(14,63)</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
+
+## Ilta- ja yötyölisät
+
+> Iltatyölisä (klo 18.00–24.00) 1,33 euroa/tunti
+>
+> Yötyölisä (klo 24.00 – 06.00) 2,25 euroa /tunti
+>
+> Sunnuntaina ja pyhäpäivisin lisät maksetaan kaksinkertaisina (TES 17
+> §).
+>
+> [www.pam.fi](http://www.pam.fi/) 25
+
+## Päivittäistavaramyymälälisä
+
+- arkisin klo 18–24 1,86 euroa/tunti
+
+- sunnuntaina, kirkollisina juhla-, vapun- ja itsenäisyys-
+
+> päivänä klo 18–24 3,71 euroa/tunti
+
+- arkisin ja pyhäpäivisin
+
+> klo 00–06 3,72 euroa/tunti
+
+## Luvanhaltijan edustajan lisän perusteena oleva hovimestarin taulukkopalkka 1.6.2023
+
+> 2312
+>
+> (14,54)
+>
+> 2373
+>
+> (14,92)
+>
+> 2441
+>
+> (15,35)
+>
+> 2509
+>
+> (15,78)
+>
+> 26 [www.pam.fi](http://www.pam.fi/)
+
+## Palkkaryhmät
+
+1.  Aputyöntekijä, pikkolo
+
+2.  Tarjoilija, kassa, myyjä, kokki, huolto- ja liikenne-
+    > asematyöntekijä, keilahallityöntekijä (kahvilat,
+    > pikaruokaravintolat sekä ravintolat, joissa ei anniskella lainkaan
+    > tai joissa anniskellaan enintään 5,5 tilavuus- prosenttia
+    > etyylialkoholia sisältäviä alkoholijuomia) Siivooja, allasvalvoja,
+    > autolla tapahtuva tuotteiden kuljetus- ja jakelutyö,
+    > aulapalvelutyöntekijä, leirin- täaluetyöntekijä
+
+3.  Henkilöstöravintolan kokki (ei anniskella yli 5,5 tila-
+    > vuusprosenttia etyylialkoholia sisältäviä alkoholijuomia)
+    > Kerroshoitaja, eines- ja valmistuskeittiön kokki, leipuri
+
+4.  Tarjoilija, kokki, kylmäkkö, huolto- ja liikenne- asematyöntekijä,
+    > keilahallityöntekijä (anniskelu- paikat, joissa anniskellaan yli
+    > 5,5 tilavuusprosenttia etyylialkoholia sisältäviä alkoholijuomia)
+    > Vahtimestari, järjestyksenvalvoja, huoltomies, puhelunvälittäjä,
+    > vastaanottoapulainen, karaoke- työntekijä, kokousjärjestelijä,
+    > hyvinvointityöntekijä (esim. kunto-ohjaaja, personal trainer,
+    > jalkojenhoitaja), harraste- ja tapahtumatyöntekijä (esim.
+    > kuntosalin ohjaaja, vapaa-ajanohjaaja, roudari, hallinrakentaja,
+    > caddie master), kosmetologi, liikunnanohjaaja, hieroja
+
+5.  Majoitusliikkeen vastaanottovirkailija, consierge, portieeri,
+    > fysioterapeutti
+
+> [www.pam.fi](http://www.pam.fi/) 27
+
+## Kuukausi- ja tuntipalkat 1.6.2023
+
+### Esihenkilöt
+
+> Esihenkilöiden taulukkopalkat sen palkanmaksu- kauden alusta, jonka
+> alkaa 1.6.2023 tai lähinnä sen jälkeen alkavan palkanmaksukauden
+> alusta lukien.
+
+<table>
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 20%" />
+<col style="width: 23%" />
+<col style="width: 22%" />
+<col style="width: 23%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th><blockquote>
+<p>0–2 V.</p>
+</blockquote></th>
+<th><blockquote>
+<p>YLI 2 V.</p>
+</blockquote></th>
+<th><blockquote>
+<p>YLI 5 V.</p>
+</blockquote></th>
+<th><blockquote>
+<p>YLI 10 V.</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td><blockquote>
+<p>2126</p>
+</blockquote></td>
+<td><blockquote>
+<p>2183</p>
+</blockquote></td>
+<td><blockquote>
+<p>2245</p>
+</blockquote></td>
+<td><blockquote>
+<p>2308</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>(13,37)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(13,73)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(14,12)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(14,52)</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>2</p>
+</blockquote></td>
+<td><blockquote>
+<p>2232</p>
+</blockquote></td>
+<td><blockquote>
+<p>2291</p>
+</blockquote></td>
+<td><blockquote>
+<p>2359</p>
+</blockquote></td>
+<td><blockquote>
+<p>2422</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>(14,04)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(14,41)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(14,84)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(15,23)</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>3</p>
+</blockquote></td>
+<td><blockquote>
+<p>2312</p>
+</blockquote></td>
+<td><blockquote>
+<p>2373</p>
+</blockquote></td>
+<td><blockquote>
+<p>2441</p>
+</blockquote></td>
+<td><blockquote>
+<p>2509</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>(14,54)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(14,92)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(15,35)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(15,78)</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>4</p>
+</blockquote></td>
+<td><blockquote>
+<p>2332</p>
+</blockquote></td>
+<td><blockquote>
+<p>2392</p>
+</blockquote></td>
+<td><blockquote>
+<p>2463</p>
+</blockquote></td>
+<td><blockquote>
+<p>2530</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>(14,67)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(15,04)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(15,49)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(15,91)</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>5</p>
+</blockquote></td>
+<td><blockquote>
+<p>2446</p>
+</blockquote></td>
+<td><blockquote>
+<p>2512</p>
+</blockquote></td>
+<td><blockquote>
+<p>2588</p>
+</blockquote></td>
+<td><blockquote>
+<p>2662</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>(15,38)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(15,80)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(16,28)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(16,74)</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>6</p>
+</blockquote></td>
+<td><blockquote>
+<p>2614</p>
+</blockquote></td>
+<td><blockquote>
+<p>2671</p>
+</blockquote></td>
+<td><blockquote>
+<p>2732</p>
+</blockquote></td>
+<td><blockquote>
+<p>2794</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>(16,44)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(16,80)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(17,18)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(17,57)</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
+
+> 28 [www.pam.fi](http://www.pam.fi/)
+>
+> <span id="_bookmark20" class="anchor"></span>Esihenkilöiden
+> taulukkopalkat sen palkanmaksu- kauden alusta, jonka alkaa 1.9.2024
+> tai lähinnä sen jälkeen alkavan palkanmaksukauden alusta lukien.
+
+<table>
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 20%" />
+<col style="width: 23%" />
+<col style="width: 22%" />
+<col style="width: 23%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th><blockquote>
+<p>0–2 V.</p>
+</blockquote></th>
+<th><blockquote>
+<p>YLI 2 V.</p>
+</blockquote></th>
+<th><blockquote>
+<p>YLI 5 V.</p>
+</blockquote></th>
+<th><blockquote>
+<p>YLI 10 V.</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>1</p>
+</blockquote></td>
+<td><blockquote>
+<p>2162</p>
+</blockquote></td>
+<td><blockquote>
+<p>2220</p>
+</blockquote></td>
+<td><blockquote>
+<p>2283</p>
+</blockquote></td>
+<td><blockquote>
+<p>2347</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>(13,60)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(13,96)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(14,36)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(14,74)</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>2</p>
+</blockquote></td>
+<td><blockquote>
+<p>2270</p>
+</blockquote></td>
+<td><blockquote>
+<p>2330</p>
+</blockquote></td>
+<td><blockquote>
+<p>2399</p>
+</blockquote></td>
+<td><blockquote>
+<p>2463</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>(14,28)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(14,65)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(15,09)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(15,49)</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>3</p>
+</blockquote></td>
+<td><blockquote>
+<p>2351</p>
+</blockquote></td>
+<td><blockquote>
+<p>2413</p>
+</blockquote></td>
+<td><blockquote>
+<p>2482</p>
+</blockquote></td>
+<td><blockquote>
+<p>2552</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>(14,79)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(15,18)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(15,61)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(16,05)</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>4</p>
+</blockquote></td>
+<td><blockquote>
+<p>2372</p>
+</blockquote></td>
+<td><blockquote>
+<p>2433</p>
+</blockquote></td>
+<td><blockquote>
+<p>2505</p>
+</blockquote></td>
+<td><blockquote>
+<p>2573</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>(14,92)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(15,30)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(15,75)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(16,18)</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>5</p>
+</blockquote></td>
+<td><blockquote>
+<p>2488</p>
+</blockquote></td>
+<td><blockquote>
+<p>2555</p>
+</blockquote></td>
+<td><blockquote>
+<p>2632</p>
+</blockquote></td>
+<td><blockquote>
+<p>2707</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>(15,65)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(16,07)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(16,55)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(17,03)</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>6</p>
+</blockquote></td>
+<td><blockquote>
+<p>2658</p>
+</blockquote></td>
+<td><blockquote>
+<p>2716</p>
+</blockquote></td>
+<td><blockquote>
+<p>2778</p>
+</blockquote></td>
+<td><blockquote>
+<p>2841</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>(16,72)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(17,08)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(17,47)</p>
+</blockquote></td>
+<td><blockquote>
+<p>(17,87)</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
+
+## Ilta- ja yötyölisä
+
+> Iltatyölisä (klo 18.00–24.00) 1,33 euroa/tunti
+>
+> Yötyölisä (klo 24.00–06.00) 2,25 euroa/tunti
+>
+> Sunnuntaina ja pyhäpäivisin lisät maksetaan kaksinkertaisina (TES 17§)
+>
+> [www.pam.fi](http://www.pam.fi/) 29
+
+## Päivittäistavaramyymälälisä (TES 16§ 3.kohta)
+
+- arkisin klo 18–24 1,86 euroa/tunti
+
+- sunnuntaina, kirkollisina juhla-, vapun- ja itsenäisyys-
+
+> päivänä klo 18–24 3,71 euroa/tunti
+
+- arkisin ja pyhäpäivisin
+
+> klo 00 – 06 3,72 euroa/tunti
+>
+> 30 [www.pam.fi](http://www.pam.fi/)
+
+## Palkkaryhmät
+
+1.  Vuoropäällikkö
+
+> (kahvilat, pikaruokaravintolat sekä ravintolat, joissa ei anniskella
+> lainkaan tai joissa anniskellaan enintään 5,5 tilavuusprosenttia
+> etyylialkoholia sisältäviä alkoholijuomia)
+
+2.  Kerroshoito- ja siivouspäällikkö, baarimestari
+
+3.  Vuoropäällikkö ja -mestari, hovimestari (anniskelupaikat, joissa
+    > anniskellaan yli 5,5 tilavuusprosenttia etyylialkoholia sisältäviä
+    > alkoholijuomia)
+
+> Vastaanottopäällikkö
+
+4.  Kahvilan päällikkö, henkilöstöravintolan päällik- kö, hallipäällikkö
+
+> (kahvilat, pikaruokaravintolat sekä ravintolat, joissa ei anniskella
+> lainkaan tai joissa anniskellaan enintään 5,5 tilavuusprosenttia
+> etyylialkoholia sisältäviä alkoholijuomia)
+
+5.  Keittiömestari
+
+6.  Ravintolapäällikkö, anniskeluravintolan vastaava hoitaja
+
+> (anniskelupaikat, joissa anniskellaan yli 5,5 tilavuusprosenttia
+> etyylialkoholia sisältäviä alkoholijuomia)
+>
+> [www.pam.fi](http://www.pam.fi/) 31
+
+<img src="media/image2.png" style="width:3.2874in;height:4.1345in" />
+
+#### Jäsenyys ja liittyminen
+
+> 030 100 600
+
+#### Jäsenten työsuhdeasiat
+
+> 030 100 620
+
+#### Työttömyyskassa
+
+> 020 690 211
+>
+> [www.pam.fi](http://www.pam.fi/)
+> [www.pam.fi/liity](http://www.pam.fi/liity)
